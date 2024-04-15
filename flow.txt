@@ -1,0 +1,11 @@
+removal of background
+
+single image process using SVM
+
+preprocessing and extraction of dataset
+
+classify
+
+200_250-250
+
+format: plant_village_<numberOfImages>_<resized_kernel>
