@@ -7,5 +7,6 @@ preprocessing and extraction of dataset
 classify
 
 200_250-250
+200_800-600
 
 format: plant_village_<numberOfImages>_<resized_kernel>
