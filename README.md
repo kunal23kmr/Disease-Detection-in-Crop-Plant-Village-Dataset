@@ -28,9 +28,9 @@ The remove_bg function performs the following steps:
 
 ### Python code:
 
-import cv2
+``` import cv2
 import numpy as np
-from skimage import exposure
+from skimage import exposure 
 
 def remove_bg(main_img):
     # Preprocessing
